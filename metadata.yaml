@@ -1,0 +1,42 @@
+_repo: Bentley-s-Miscellany-Volume-I_44578
+_version: 0.1.0
+contributor:
+  publisher_contributor:
+    agent_name: Bentley, Richard
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '42823'
+    url: http://www.gutenberg.org/2009/agents/42823
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh periodicals -- 19th century'
+- !lcc 'AP'
+title: Bentley's Miscellany, Volume I
+url: http://www.gutenberg.org/ebooks/44578
